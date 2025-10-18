@@ -1,6 +1,6 @@
 # How to Donate
 
-Donations help maintain site infrastructure by paying for the ongoing costs of cloud servers. You may donate any amount, but to receive benefits a minimum donation is required. **If you would like to receive benefits, please enclose information regarding your donation in an email to: [donate@gog-games.to](mailto:donate@gog-games.to?subject=Donation)**
+Donations help maintain site infrastructure by paying for the ongoing costs of servers. You may donate any amount, but to receive benefits a minimum donation is required. **If you would like to receive benefits, please enclose information regarding your donation in an email to: [donate@gog-games.to](mailto:donate@gog-games.to?subject=Donation)**
 
 # Benefits
 
