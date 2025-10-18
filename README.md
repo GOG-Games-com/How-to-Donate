@@ -10,7 +10,7 @@ A donation of 20 USD/EUR is required to receive a key to use the donor API endpo
 ## FTP Access/GG Downloader
 **Please note:** This is first come, first served. There are very limited slots available. It is currently: ${\textsf{\color{green}OPEN}}$
 
-A minimum donation of 100 USD/EUR is required. This allows you to directly download from a high-speed server. Your access will be valid for one year. You will also receive the ability to use a custom downloading program (Windows 10/11) that integrates with the website.
+A minimum donation of 100 USD/EUR is required. This allows you to directly download from a high-speed server. Your access will be valid for one year. You will also receive the ability to use a custom downloading program (Windows 10/11 support only) that integrates with the website.
 
 # Methods of Payment
 
