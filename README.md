@@ -16,7 +16,7 @@ A minimum donation of 100 USD/EUR is required. This allows you to directly downl
 
 ## Azteco Bitcoin Voucher
 
-Azteco Bitcoin Vouchers work just like gift cards. You can buy them with normal methods of payment at [G2A](https://www.g2a.com/search?query=Azteco%20Bitcoin) or [OffGamers](https://www.offgamers.com/product/azteco-gift-cards). **Please enclose the 16-digit voucher code in your email.**
+Azteco Bitcoin Vouchers work just like gift cards. You can buy them with normal methods of payment at [G2A](https://www.g2a.com/search?query=Azteco%20Bitcoin%20On-Chain) or [OffGamers](https://www.offgamers.com/product/azteco-gift-cards). **Please enclose the 16-digit voucher code in your email.**
 
 ## Credit card (US only)
 If you are a resident in the United States, you may use [Privacy.com](https://www.privacy.com/) to create virtual credit cards with set spending limits. **Please enclose the credit card number, expiration date, security code and total amount on the card in your email.**
